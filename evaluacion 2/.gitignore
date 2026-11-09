@@ -1,0 +1,17 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Datos grandes que se regeneran al correr el notebook 05
+data/processed/bank_preprocesado.csv
+data/processed/bank_pca.csv
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
