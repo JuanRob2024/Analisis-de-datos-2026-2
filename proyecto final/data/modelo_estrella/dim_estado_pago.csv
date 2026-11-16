@@ -1,0 +1,12 @@
+id_estado_pago,descripcion,categoria
+-2,Sin consumo,Al día
+-1,Pagó el total,Al día
+0,Pago mínimo (revolvente),Al día
+1,1 mes de retraso,Mora leve
+2,2 meses de retraso,Mora grave
+3,3 meses de retraso,Mora grave
+4,4 meses de retraso,Mora grave
+5,5 meses de retraso,Mora grave
+6,6 meses de retraso,Mora grave
+7,7 meses de retraso,Mora grave
+8,8 o más meses de retraso,Mora grave
