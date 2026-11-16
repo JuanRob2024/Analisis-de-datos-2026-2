@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*.pyc
+# guia interna del equipo: no se versiona
+guia_interactiva*.html
